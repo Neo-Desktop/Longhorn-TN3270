@@ -4,7 +4,7 @@ Generates keys for an aptly named 3270 terminal emulator
 <img src="https://neo-desktop.github.io/Longhorn-TN3270/images/logo.png" height=100 />
 
 
-###Simply run and Longhorn!
+### Simply run and Longhorn!
 
 ![Main screen screenshot](https://neo-desktop.github.io/Longhorn-TN3270/images/mainscreen.png)
 
