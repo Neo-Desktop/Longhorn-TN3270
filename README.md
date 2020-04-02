@@ -12,7 +12,7 @@ Generates keys for an aptly named 3270 terminal emulator
 This is mostly for educational purposes only
 Documentation is non-existent
 
-If you're interested in how I black-box tested the original samples, checkout [tree/blackbox](/tree/blackbox "the blackbox branch")
+If you're interested in how I black-box tested the original samples, checkout [the blackbox branch](../../tree/blackbox "the blackbox branch")
 
 I just /really/ enjoy taking things apart and trying to put them back together
 
